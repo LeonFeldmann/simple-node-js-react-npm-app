@@ -14,7 +14,7 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
         <p>some sample text, even more sample text</p>
-
+        <p> some arbitrary code</p>
       </div>
     );
   }
